@@ -10,3 +10,4 @@ AutoDoc Creator automates document creation, management, and storage with integr
 ## Documentation
 - [Features](docs/features.md)
 - [API Reference](docs/api.md)
+![Screenshot of AutoDoc Creator](path/to/screenshot.png)
