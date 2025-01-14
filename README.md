@@ -11,3 +11,9 @@ AutoDoc Creator automates document creation, management, and storage with integr
 - [Features](docs/features.md)
 - [API Reference](docs/api.md)
 ![Screenshot of AutoDoc Creator](path/to/screenshot.png)
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/14400swans/AutoDoc-Creator-Documentation.git
+   cd AutoDoc-Creator-Documentation
