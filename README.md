@@ -1,12 +1,12 @@
-# AutoDoc-Creator-Documentation
-"Documentation for AutoDoc Creator functionalities."
+# AutoDoc Creator Documentation
 
-## Project Description
+AutoDoc Creator automates document creation, management, and storage with integrations to GitHub, Microsoft OneDrive, and OpenAI.
 
-AutoDoc Creator automates document creation and management with seamless integration to platforms like GitHub, Microsoft OneDrive, and OpenAI.
+## Features
+1. **Content Generation**: Generate content using OpenAI's API.
+2. **File Uploads to OneDrive**: Manage file uploads using Microsoft Graph API.
+3. **File Management in GitHub**: Upload files programmatically to GitHub repositories.
 
-### Key Features:
-- **Automated Documentation**: Generate, update, and manage documentation automatically.
-- **API Integration**: Simplifies workflows by connecting to GitHub, OneDrive, and OpenAI.
-- **User-Friendly**: Easy-to-use interface for developers and project managers.
-
+## Documentation
+- [Features](docs/features.md)
+- [API Reference](docs/api.md)
